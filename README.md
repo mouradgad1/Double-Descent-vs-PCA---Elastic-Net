@@ -1,6 +1,6 @@
 # Double Descent vs PCA & Elastic Net
 
-Project skeleton and utilities for experimenting with model complexity, dimensionality reduction (PCA),
+Project skeleton for experimenting with model complexity, dimensionality reduction (PCA),
 and regularization (Elastic Net). The goal is to provide reproducible pipelines and small helper
 utilities to run experiments that explore double-descent phenomena and how PCA / Elastic Net
 affect generalization.
