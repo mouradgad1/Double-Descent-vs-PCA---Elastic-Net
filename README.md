@@ -63,4 +63,4 @@ Suggestions and pull requests welcome.
 Contact
 
 For questions or help, open an issue or contact the repository owner.
-!image[PCA image](https://numxl.com/wp-content/uploads/principal-component-analysis-pca-featured.png)
+![PCA image](https://numxl.com/wp-content/uploads/principal-component-analysis-pca-featured.png)
