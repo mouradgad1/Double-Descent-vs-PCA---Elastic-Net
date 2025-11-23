@@ -1,3 +1,4 @@
+![double descent](\figures\double_descent_animation.gif)
 # Double Descent vs PCA & Elastic Net
 
 Project skeleton for experimenting with model complexity, dimensionality reduction (PCA),
